@@ -10,11 +10,11 @@ Each project explores a different ML algorithm applied on sample datasets, inclu
 
 ## ML Models Covered
 
+- **Linear Regression**
+- **Logistic Regression** 
 - **Decision Tree Classifier**
-- **K-Nearest Neighbors (KNN)**
-- **Logistic Regression**
+- **K-Means Clustering**
 - **Random Forest Classifier**
-- **Support Vector Machine (SVM)**
 
 Each model folder includes:
 - Model building script
@@ -25,11 +25,11 @@ Each model folder includes:
 
 
 ## 🧠 Technologies Used
-- Python 3.x
+- Python
 - scikit-learn
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
-- Jupyter Notebook / Google Colab (optional)
+- Jupyter Notebook
 
 
