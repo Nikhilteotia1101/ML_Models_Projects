@@ -18,10 +18,10 @@ Each project explores a different ML algorithm applied on sample datasets, inclu
 
 Each model folder includes:
 - Model building script
-- Data preprocessing (if necessary)
+- Data preprocessing
 - Model training and testing
 - Accuracy score and evaluation metrics
-- Graphical plots (confusion matrix, decision boundaries where applicable)
+- Graphical plots (confusion matrix)
 
 
 ## 🧠 Technologies Used
